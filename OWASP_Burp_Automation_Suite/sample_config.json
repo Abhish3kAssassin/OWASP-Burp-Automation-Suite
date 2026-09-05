@@ -1,0 +1,15 @@
+{
+  "target": "https://app.example.test",
+  "allowed_hosts": [
+    "app.example.test"
+  ],
+  "authorized": true,
+  "output_dir": "reports",
+  "max_pages": 30,
+  "delay": 0.25,
+  "burp": {
+    "enabled": false,
+    "api": "http://127.0.0.1:1337",
+    "scan_configuration": "Audit checks - light active"
+  }
+}
