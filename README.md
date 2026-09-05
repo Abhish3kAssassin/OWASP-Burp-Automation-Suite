@@ -295,7 +295,7 @@ python -m pip install requests PyYAML reportlab
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/owasp-burp-automation-suite.git
+git clone https://github.com/Abhish3kAssassin/OWASP-Burp-Automation-Suite.git
 ```
 
 Enter the project directory:
